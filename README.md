@@ -5,6 +5,7 @@
 
 
 ### Rules
+- Rules -> Create Rule -> bioinformatics_guidelines.mdc
 ```
 ---
 description: 
