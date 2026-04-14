@@ -3,6 +3,10 @@
 > 使用环境为 VSCODE中安装CodeBuddy插件;<br>
 > 注：仅个人使用习惯记录<br>
 
+### RAG必备工具
+- [markitdown-rs](https://github.com/uhobnil/markitdown-rs)
+- [fastmcp](https://github.com/prefecthq/fastmcp)
+
 ### Skills
 - [superpowers](https://github.com/obra/superpowers)
 - [pua](https://github.com/tanweai/pua)
