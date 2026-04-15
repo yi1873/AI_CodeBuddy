@@ -4,7 +4,7 @@
 > 注：仅个人使用习惯记录<br>
 
 ### RAG必备工具
-- [marker](https://github.com/datalab-to/marker)
+- [marker](https://github.com/datalab-to/marker)  【效果最好】
 - [markitdown-rs](https://github.com/uhobnil/markitdown-rs)
 - [fastmcp](https://github.com/prefecthq/fastmcp)
 
