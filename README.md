@@ -8,6 +8,7 @@
   - marker_single 0.data/2019-UroCAD.pdf --output_format markdown --output_dir 1.markitdown/
   - 首次下载需要安装约5G，虽然效果最好，但运行速度也极慢，单文件需要1h+；
 - [markitdown-rs](https://github.com/uhobnil/markitdown-rs)
+  - 速度极快，但不识别提取图片；
 - [fastmcp](https://github.com/prefecthq/fastmcp)
 
 ### Skills
