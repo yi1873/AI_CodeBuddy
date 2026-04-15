@@ -5,6 +5,8 @@
 
 ### RAG必备工具
 - [marker](https://github.com/datalab-to/marker)  【效果最好】
+  - marker_single 0.data/2019-UroCAD.pdf --output_format markdown --output_dir 1.markitdown/
+  - 首次下载需要安装约5G，但运行速度尚可；
 - [markitdown-rs](https://github.com/uhobnil/markitdown-rs)
 - [fastmcp](https://github.com/prefecthq/fastmcp)
 
