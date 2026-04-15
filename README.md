@@ -7,18 +7,18 @@
 - [marker](https://github.com/datalab-to/marker)  【效果最好】
   - marker_single 0.data/2019-UroCAD.pdf --output_format markdown --output_dir 1.markitdown/
   - 首次下载需要安装约5G，虽然效果最好，但运行速度也稍慢（~5 min+）；
-  ```
-  marker_single $pdf_file \
-        --output_format markdown \
-        --output_dir 1.markitdown/ \
-        --lowres_image_dpi 72 \
-        --highres_image_dpi 150 \
-        --pdftext_workers 4 \
-        --layout_batch_size 2 \
-        --detection_batch_size 2 \
-        --recognition_batch_size 2 \
-        --ocr_task_name ocr_without_boxes 
-  ``` 
+    ```
+    marker_single $pdf_file \
+          --output_format markdown \
+          --output_dir 1.markitdown/ \
+          --lowres_image_dpi 72 \
+          --highres_image_dpi 150 \
+          --pdftext_workers 4 \
+          --layout_batch_size 2 \
+          --detection_batch_size 2 \
+          --recognition_batch_size 2 \
+          --ocr_task_name ocr_without_boxes 
+    ``` 
 - [markitdown-rs](https://github.com/uhobnil/markitdown-rs)
   - 速度极快，但不识别提取图片；
 - [fastmcp](https://github.com/prefecthq/fastmcp)
